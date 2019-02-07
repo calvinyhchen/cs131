@@ -1,0 +1,9 @@
+[Welsh] INFO 2018-06-07 18:00:31,497 : Serving on ('127.0.0.1', 11392)
+[Welsh] INFO 2018-06-07 18:01:28,626 : Connected from ('127.0.0.1', 49593)
+[Welsh] INFO 2018-06-07 18:01:28,628 : Data received: 'AT Hands +8395753.696039915 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997 Hands Goloman Wilkes Wilkes Goloman Hands Holiday Holiday Goloman Welsh Wilkes'
+[Welsh] INFO 2018-06-07 18:01:28,628 : New stamp: kiwi.cs.ucla.edu
+[Welsh] INFO 2018-06-07 18:01:28,629 : Disconnect: ('127.0.0.1', 49593)
+[Welsh] INFO 2018-06-07 18:01:28,629 : Connected from ('127.0.0.1', 49594)
+[Welsh] INFO 2018-06-07 18:01:28,629 : Data received: 'AT Hands +8395753.696039915 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997 Hands Goloman Wilkes Goloman Hands Holiday Wilkes Holiday Goloman Welsh Wilkes'
+[Welsh] INFO 2018-06-07 18:01:28,630 : Didnt update stamp: kiwi.cs.ucla.edu
+[Welsh] INFO 2018-06-07 18:01:28,630 : Disconnect: ('127.0.0.1', 49594)

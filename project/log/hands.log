@@ -1,0 +1,15 @@
+[Hands] INFO 2018-06-07 18:00:31,498 : Serving on ('127.0.0.1', 11390)
+[Hands] INFO 2018-06-07 18:01:17,083 : Connected from ('127.0.0.1', 49587)
+[Hands] INFO 2018-06-07 18:01:17,084 : Data received: 'WHATSAT kiwi.cs.ucla.edu 10 5'
+[Hands] INFO 2018-06-07 18:01:17,084 : Invalid client id
+[Hands] INFO 2018-06-07 18:01:17,084 : Respond message: '? WHATSAT kiwi.cs.ucla.edu 10 5'
+[Hands] INFO 2018-06-07 18:01:17,084 : Disconnect: ('127.0.0.1', 49587)
+[Hands] INFO 2018-06-07 18:01:28,612 : Connected from ('127.0.0.1', 49588)
+[Hands] INFO 2018-06-07 18:01:28,613 : Data received: 'IAMAT kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997'
+[Hands] INFO 2018-06-07 18:01:28,615 : Respond message: 'AT Hands +8395753.696039915 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997'
+[Hands] INFO 2018-06-07 18:01:28,615 : New stamp: kiwi.cs.ucla.edu
+[Hands] INFO 2018-06-07 18:01:28,615 : Disconnect: ('127.0.0.1', 49588)
+[Hands] INFO 2018-06-07 18:01:28,617 : Connect and propagate to Goloman
+[Hands] INFO 2018-06-07 18:01:28,617 : Connect and propagate to Wilkes
+[Hands] INFO 2018-06-07 18:01:28,622 : Disconnect: Wilkes
+[Hands] INFO 2018-06-07 18:01:28,623 : Disconnect: Goloman

@@ -1,0 +1,7 @@
+[Wilkes] INFO 2018-06-07 18:00:31,493 : Serving on ('127.0.0.1', 11393)
+[Wilkes] INFO 2018-06-07 18:01:28,617 : Connected from ('127.0.0.1', 49590)
+[Wilkes] INFO 2018-06-07 18:01:28,618 : Data received: 'AT Hands +8395753.696039915 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997 Hands Goloman Wilkes'
+[Wilkes] INFO 2018-06-07 18:01:28,620 : New stamp: kiwi.cs.ucla.edu
+[Wilkes] INFO 2018-06-07 18:01:28,620 : Disconnect: ('127.0.0.1', 49590)
+[Wilkes] INFO 2018-06-07 18:01:28,622 : Connect and propagate to Holiday
+[Wilkes] INFO 2018-06-07 18:01:28,625 : Disconnect: Holiday
