@@ -1,6 +1,6 @@
 ## UCLA CS131
 
-Course link: [Programming LanguageSpring 2018, Prof. Eggert](http://web.cs.ucla.edu/classes/spring18/cs131/index.html)
+Course link: [Programming Language Spring 2018, Prof. Eggert](http://web.cs.ucla.edu/classes/spring18/cs131/index.html)
 
 ## Scores
 Homework | Score
